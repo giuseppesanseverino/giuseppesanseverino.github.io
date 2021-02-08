@@ -1,3 +1,0 @@
-# giuseppesanseverino.github.io
-
-README
