@@ -1,1 +1,0 @@
-<head>Curriculum Vitae</head>
